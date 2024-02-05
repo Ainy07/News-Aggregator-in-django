@@ -1,8 +1,8 @@
 # News-Aggregator-in-django
 using django
 
-###create virtual environment ,
-python -m  venv venv,
+###create virtual environment ----
+python -m  venv venv ---
 venv/scripts/activate,
 
 
